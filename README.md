@@ -3,7 +3,6 @@
 <img align="center" alt="coding" width="600" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanm69&label=Profile%20views&color=0e75b6&style=flat" alt="ivanm69" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanm69" alt="ivanm69" /></a> </p>
 
 - 🌱 I’m currently learning **Java,Photoshop**
 
