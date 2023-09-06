@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanm69&" alt="ivanm69" /></p>
 
-![Snake animation](https://github.com/ivanm69/ivanm69/blob/output/github-contribution-grid-snake.svg)
+<p>![Snake animation](https://github.com/ivanm69/ivanm69/blob/output/github-contribution-grid-snake.svg)</p>
