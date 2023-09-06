@@ -21,4 +21,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanm69&" alt="ivanm69" /></p>
 
 
-[![GitHub Streak snake](https://github-readme-streak-stats.herokuapp.com/?user=ivanm69)](https://github.com/ivanm69)
+
