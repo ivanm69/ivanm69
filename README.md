@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanm69&label=Profile%20views&color=0e75b6&style=flat" alt="ivanm69" /> </p>
 
 
-- 🌱 I’m currently learning **Java,Photoshop**
+- 🌱 I’m currently learning **Photoshop,Web programing**
 
 - 📫 How to reach me **ivanmarosevic4@gmail.com**
 
