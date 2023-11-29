@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **Photoshop,Web programing**
 
 - 📫 How to reach me **ivanmarosevic4@gmail.com**
-### Skills
 
 
 <h3 align="left">Connect with me:</h3>
